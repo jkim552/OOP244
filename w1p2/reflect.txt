@@ -1,0 +1,7 @@
+From part 1, I always wrote code for myself rather than mixmatching the pre written code and differanciate on other header and cpp files.
+It took longer than I expected because I've never practiced this method so this was challanging for me.
+
+From part 2, my challanging part was do while loop that I made. I usually use a for or while loop rather than the do while.
+But, the example of the pdf link was using a do while loop. So before I use that method, I had to do some research and
+understand what the code was trying to complie. 
+ 

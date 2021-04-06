@@ -1,0 +1,9 @@
+I always have problems when I modify my old code to update new data.
+and I figured out that the problem was how I align my functions.
+For my next projects and labs I should align the function by where and when
+the function is used. I had to go back and forth to see if I made corrections
+but the functions were far apart which I got confused time to time.
+Using dynamic allocated array of characters is now familar because of the labs
+we did so far. I was able to review the notes and my old projects to double
+check for memory leak. Constructor and deconstructor example helped me 
+understand when to put the deconstructor. 

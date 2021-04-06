@@ -1,0 +1,7 @@
+﻿  Car.cpp
+  Parking.cpp
+C:\Users\john\Desktop\S2\OOP LABS\m6\Project1\Project1\Parking.cpp(42,25): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Vehicle.cpp
+C:\Users\john\Desktop\S2\OOP LABS\m6\Project1\Project1\Vehicle.cpp(82,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Project1.vcxproj -> C:\Users\john\Desktop\S2\OOP LABS\m6\Project1\x64\Debug\Project1.exe

@@ -1,0 +1,18 @@
+During milestone 1, I was so frustrated that I couldn't fix my memory leak.
+After going through my codes and debugged my code line by line, I was able to fix
+my memory leak and was able to submit one day late. After spending about 20 hours
+of debugging, the next time when I was writing my code, I never forget that time spent
+and always deallocated memories that I created. That is something that I learned through
+out the milestone. Also, it took me some time to understand the concept of inheritance
+and how base and derived class connect each other and what can read or modify its 
+their data. But after going through the lecture notes and some research about what 
+inheritances are for and how it is used, I was able to create my project structure to 
+combine one another. And lastly, the virtual function method was very useful for me 
+because once virtual function is initialized in the base class, the functions that are created 
+in the derived class also become virtual which allows me to decide which functions to 
+use during run-time. This method made my assignments a lot easier than confusing what 
+is called when I call the same function in different classes. 
+Finally, I was really weak about input and output operator using istream and ostream.
+This was really confusing at the first time but after I got used to what those functions
+are for and how it is implemented in the program, I was able to use that not only in
+milestone for this course but also in DBS final project. Thank you for your lessons.

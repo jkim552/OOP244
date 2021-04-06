@@ -1,0 +1,15 @@
+﻿  Doctor.cpp
+  main.cpp
+C:\Users\john\Desktop\S2\OOP LABS\w8p1\Project1\Project1\main.cpp(36,44): error C2664: 'sdds::Doctor::Doctor(sdds::Doctor &&)': 인수 1을(를) 'const char [14]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\john\Desktop\S2\OOP LABS\w8p1\Project1\Project1\main.cpp(36,20): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\john\Desktop\S2\OOP LABS\w8p1\Project1\Project1\Doctor.h(19,3): message : 'sdds::Doctor::Doctor' 선언을 참조하십시오.
+C:\Users\john\Desktop\S2\OOP LABS\w8p1\Project1\Project1\main.cpp(37,56): error C2664: 'sdds::Doctor::Doctor(sdds::Doctor &&)': 인수 1을(를) 'const char [18]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\john\Desktop\S2\OOP LABS\w8p1\Project1\Project1\main.cpp(37,20): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\john\Desktop\S2\OOP LABS\w8p1\Project1\Project1\Doctor.h(19,3): message : 'sdds::Doctor::Doctor' 선언을 참조하십시오.
+C:\Users\john\Desktop\S2\OOP LABS\w8p1\Project1\Project1\main.cpp(38,51): error C2664: 'sdds::Doctor::Doctor(sdds::Doctor &&)': 인수 1을(를) 'const char [14]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\john\Desktop\S2\OOP LABS\w8p1\Project1\Project1\main.cpp(38,20): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\john\Desktop\S2\OOP LABS\w8p1\Project1\Project1\Doctor.h(19,3): message : 'sdds::Doctor::Doctor' 선언을 참조하십시오.
+C:\Users\john\Desktop\S2\OOP LABS\w8p1\Project1\Project1\main.cpp(35,15): error C2466: 상수 크기 0의 배열을 할당할 수 없습니다.
+C:\Users\john\Desktop\S2\OOP LABS\w8p1\Project1\Project1\main.cpp(46,35): error C2660: 'sdds::Employee::display': 함수는 0개의 인수를 사용하지 않습니다.
+C:\Users\john\Desktop\S2\OOP LABS\w8p1\Project1\Project1\Employee.h(23,17): message : 'sdds::Employee::display' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...

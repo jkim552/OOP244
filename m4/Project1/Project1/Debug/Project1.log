@@ -1,0 +1,6 @@
+﻿  Utils.cpp
+C:\Users\john\Desktop\S2\OOP LABS\m4\Project1\Project1\Utils.cpp(44,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Vehicle.cpp
+  ms4_VehicleTester.cpp
+  코드를 생성하고 있습니다...
+  Project1.vcxproj -> C:\Users\john\Desktop\S2\OOP LABS\m4\Project1\Debug\Project1.exe

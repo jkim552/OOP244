@@ -1,0 +1,11 @@
+The lab was quite straight foward for me to finish. Similar to previous lab. I had to modify my header file
+from statically allocated array to dynamic allocated memory. Then modify my implementation a little bit.
+Tricky part was the += operator, took me some time to fix my complie errors through out the code.
+I confused myself with the index and did not add my engine correctly before I got to fix it.
+It was a similar method where updating a new array with an increased length. Copy the original data to a 
+temporary array, concatenate the new data to that temporary array, delete the orignial array and copy the 
+temporary array to the empty (orignal array). I had to use my clearmemory functions which was delete the 
+dynamic array that is no longer use after all the data was copied to the temporary array. And keep a track of
+my engCnt because that will be increased if the new egine was added. After adding the new data ( engine)
+to the temporary array and copy it back to the orignial array. Again, I delete my temporary dynamic array
+for memory leak.

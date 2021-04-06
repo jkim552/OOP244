@@ -1,0 +1,6 @@
+The main topic about this project was allocated a memory array and deallocating it so that it doesn’t make memory error. 
+This project allowed me to practice more when to allocate a new memory and when to deallocate after the memory is no longer use. 
+Also, assigning that array to null pointer to make sure it doesn’t have any memory assigned. 
+Challenging part was m_wrap didn’t have an assigned length of array. 
+So I had to create a new structure and allocate each memory using for loop after getting the m_wrapLayers value. 
+And assign that memory to m_wrap using m_pattern memory.
